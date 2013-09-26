@@ -1,0 +1,14 @@
+[Inputs]
+clk50_in
+reset_in
+win_in
+=appleX_in[0:9]=
+=appleY_in[0:8]=
+=move_in[1:0]=
+[Outputs]
+hs_out
+vs_out
+game_out
+score_out
+=rgb_out[2:0]=
+[BiDir]

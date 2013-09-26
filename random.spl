@@ -1,0 +1,7 @@
+[Inputs]
+clk1
+clk2
+[Outputs]
+=random_x[0:9]=
+=random_y[0:8]=
+[BiDir]

@@ -1,0 +1,3 @@
+MODULE scoreBoard
+	SUBMODULE score_out
+		INSTANCE XLXI_119

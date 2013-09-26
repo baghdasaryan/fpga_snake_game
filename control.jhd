@@ -1,0 +1,3 @@
+MODULE control
+	SUBMODULE keyboard
+		INSTANCE XLXI_142

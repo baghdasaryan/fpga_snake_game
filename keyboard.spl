@@ -1,0 +1,9 @@
+[Inputs]
+keyboardClock
+keyboardData
+[Outputs]
+left
+right
+up
+down
+[BiDir]

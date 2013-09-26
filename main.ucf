@@ -1,0 +1,27 @@
+### Spartan-3 Clock (50MHz):
+NET clk50_in LOC=T9;
+
+### Spartan-3 VGA Port:
+NET rgb_out<2> LOC=R12;  	# Red
+NET rgb_out<1> LOC=T12;  # Green
+NET rgb_out<0> LOC=R11;  	# Blue
+NET hs_out LOC=R9;  		# Horizontal sync
+NET vs_out LOC=T10;  	# Vertical sync
+
+### Spartan-3 inputs and keyboard/mouse port:
+NET ps2d LOC = M15;
+NET ps2c LOC = M16;
+NET reset_in LOC = K13;
+
+### Spartan-3 LEDs:
+NET d1_out LOC = D14;
+NET d2_out LOC = G14;
+NET d3_out LOC = F14;
+NET d4_out LOC = E13;
+NET a_out LOC = E14;
+NET b_out LOC = G13;
+NET c_out LOC = N15;
+NET d_out LOC = P15;
+NET e_out LOC = R16;
+NET f_out LOC = F13;
+NET g_out LOC = N16;
